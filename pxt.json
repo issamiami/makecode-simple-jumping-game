@@ -1,0 +1,30 @@
+{
+    "name": "Simple jumping game",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.5.26",
+        "tag": "v1.5.26",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/9430ed7a42ac5585b77c961e8e423ffb8f9fdf4a",
+        "target": "1.5.46",
+        "pxt": "6.13.54",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
