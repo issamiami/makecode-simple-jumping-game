@@ -1,6 +1,10 @@
 Simple Jumping Game
 ===================
 
+_This crab hates fruit, and someone is tossing watermelons at him. Make sure he jumps [spacebar] over them, since it is game over when he hits one._
+
+
+A simple jumping game in Makecode Arcade for Meowbit and Microbit with arcade shield.
 
 > Open this page at [https://gbraad.github.io/makecode-simple-jumping-game/](https://gbraad.github.io/makecode-simple-jumping-game/)
 
