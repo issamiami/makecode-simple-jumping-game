@@ -1,31 +1,16 @@
- 
+Simple Jumping Game
+===================
 
 
 > Open this page at [https://gbraad.github.io/makecode-simple-jumping-game/](https://gbraad.github.io/makecode-simple-jumping-game/)
 
-## Use as Extension
 
-This repository can be added as an **extension** in MakeCode.
+### Screenshots
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/gbraad/makecode-simple-jumping-game** and import
+![](./screens/scratch.png)
+![](./screens/meowbit.jpg)
+![](./screens/microbit.jpg)
 
-## Edit this project ![Build status badge](https://github.com/gbraad/makecode-simple-jumping-game/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/gbraad/makecode-simple-jumping-game** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/gbraad/makecode-simple-jumping-game/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
